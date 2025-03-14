@@ -17,12 +17,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/about/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/products/pepperoni-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cheese-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/garlic-bread/
         </loc>
     </url>
     <url>
